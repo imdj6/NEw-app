@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+![Screenshot (3)](https://user-images.githubusercontent.com/81770608/155506689-9df6f01a-0617-4baa-b7e2-a0f2d698e247.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -7,6 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
